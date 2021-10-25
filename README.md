@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Subeyte Taskin 👋
 
 <!--
 **SubeyteT/SubeyteT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=SubeyteT&show_icons=true">
 
-# Merhaba, ben Mert Cobanov! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SubeyteT" alt="SubeyteT" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov)
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/cobanov)
+[![](https://img.shields.io/github/followers/SubeyteT?style=social)](https://www.github.com/SubeyteT)
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subeyte-taskin/)
