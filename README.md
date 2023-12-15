@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subeyte-taskin/)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subeytet/)
+
 [![Mail Badge](https://img.shields.io/badge/subeyte.taskin@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:subeyte.taskin@gmail.com)](mailto:subeyte.taskin@gmail.com)
 
 
